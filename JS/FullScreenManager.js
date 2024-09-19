@@ -132,7 +132,7 @@ function LockDevice() {
     }
 }
 function PlayNowBtnClick() {
-    ShowPrerollAd();
+     LoadUnityGame();
 }
 function ResumeBtnClick() {
 
